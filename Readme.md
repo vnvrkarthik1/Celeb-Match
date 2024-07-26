@@ -1,4 +1,3 @@
-Certainly! Below is the content you can paste into a `README.md` file for your project.
 
 ```markdown
 # celebMatch Project
