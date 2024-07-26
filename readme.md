@@ -84,15 +84,4 @@ Finds the best match for an unknown face among the known faces.
 
 Make sure all dependencies are installed before running the scripts.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
-## Additional Information
-
-For any questions or issues, please feel free to open an issue on this repository or contact the project maintainer.
-
 Happy face matching!
-```
-
-You can save this content into a file named `README.md` in your project's root directory.
