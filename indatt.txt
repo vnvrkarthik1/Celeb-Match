@@ -1,0 +1,21 @@
+fetch('https://gecgudlavalleruonlinepayments.com/ajax/Academics_rptstudentsattendance,App_Web_rptstudentsattendance.aspx.a2a1b31c.ashx?_method=ShowAttendanceOfStudent&_session=no', {
+  method: 'POST',
+  headers: {
+    'authority': 'gecgudlavalleruonlinepayments.com',
+    'accept': '*/*',
+    'accept-language': 'en-IN,en-GB;q=0.9,en-US;q=0.8,en;q=0.7',
+    'cache-control': 'no-cache',
+    'Content-Type': 'text/plain',
+    'cookie': 'ASP.NET_SessionId=ntqji2fi1ca3jt45ozishvn5; frmAuth=8E8351EFAFCAA68B1A305749A9C9F5B84E5F14ACC22407656E999E4BD1C1CE60E18FB9D5980B44728B8260C11AFB292D554E476B3D81222DABFD4DFB924E7D18AED3ED1B731CA7E1B3E0AA522F821ADCFFCF0640AFA96967510807E27E95525EE461314660853ED0FA44B87FC2BCEA622ECAEB10DDC1FFDA673A11342D0D529E92E01A06',
+    'origin': 'https://gecgudlavalleruonlinepayments.com',
+    'pragma': 'no-cache',
+    'referer': 'https://gecgudlavalleruonlinepayments.com/ACADEMICS/rptstudentsattendance.aspx?scrid=319',
+    'sec-ch-ua': '"Not-A.Brand";v="99", "Chromium";v="124"',
+    'sec-ch-ua-mobile': '?1',
+    'sec-ch-ua-platform': '"Android"',
+    'sec-fetch-dest': 'empty',
+    'sec-fetch-mode': 'cors',
+    'sec-fetch-site': 'same-origin'
+  },
+  body: 'rollNo=23481a04j9\r\nfromDate=\r\ntoDate=\r\nexcludeothersubjects=false'
+});
